@@ -1,0 +1,17 @@
+commit 6e8f02bb0e7e51bda21b8a2cbd292135ad269a17
+Author: Johan <johancrespocastro@gmail.com>
+Date:   Sun Sep 20 17:08:10 2020 -0500
+
+    Se agrego un lorem y se modifico el css
+
+commit 783efa3cac5ae784d1c087795e1976647c3f9443
+Author: Johan <johancrespocastro@gmail.com>
+Date:   Sun Sep 20 17:03:45 2020 -0500
+
+    Agregue parrafo a la pagina
+
+commit 42aa419cec19278a3ea471a74168fbb5dc373c21
+Author: Johan <johancrespocastro@gmail.com>
+Date:   Sun Sep 20 17:01:05 2020 -0500
+
+    iniciamos
