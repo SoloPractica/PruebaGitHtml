@@ -6,3 +6,10 @@
 h1{
     color: red;
 }
+
+.BotonDeAlerta{
+    margin-top: 40px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
